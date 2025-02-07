@@ -1,0 +1,11 @@
+langchain==0.2.10
+langchain-openai==0.1.17
+langchain-community==0.2.10
+langchain-pinecone
+pinecone[grpc]
+langchain-experimental
+python-dotenv==1.0.1
+Sentence-transformers==2.2.2
+flask
+pypdf
+-e .
